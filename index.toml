@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/solaris.pw.toml"
-hash = "94a885019d7d34192fcaf9362ef8ffc4ee797ac34fc69db409d409a7703b88e5"
+hash = "ce50c334b7aee8ceb85d3445ad6977beb08df5c37996c608666e3bd256d9735d"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "42a7c619dbea0a6e69fbdfcdadb07adb22e6fbace2bf69b20b8453056cbe5953"
+hash = "f3a369fe352972857844aa226c66c1d8bb8283db1bfad9c81e1634c3336d7e93"
 preserve = true
 
 [[files]]
