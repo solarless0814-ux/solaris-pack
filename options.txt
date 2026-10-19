@@ -6,6 +6,7 @@ key_key.solaris.skill.heaven_splitting:key.keyboard.b
 key_key.solaris.skill.nebula_annihilation:key.keyboard.t
 key_key.solaris.identity:key.keyboard.r
 key_key.solaris.just_guard:key.keyboard.g
+key_key.solaris.interact:key.keyboard.g
 key_key.solaris.potion:key.keyboard.1
 key_key.solaris.trade:key.keyboard.y
 key_key.solaris.market:key.keyboard.y:ALT
