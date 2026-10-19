@@ -3,6 +3,6 @@ filename = "solaris.jar"
 side = "both"
 
 [download]
-url = "https://github.com/solarless0814-ux/solaris-pack/releases/download/v1.0.0/solaris-1.0.0.jar"
+url = "https://github.com/solarless0814-ux/solaris-pack/releases/download/v1.0.1/solaris-1.0.1.jar"
 hash-format = "sha1"
-hash = "c55d325d74053166ed52503f686454c776eb86dc"
+hash = "02a3a32d123b3cb3364fcf77e96345bd2c723585"
