@@ -1,11 +1,11 @@
 name = "SOLARIS"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c79620ebbbe16dac58a05a9eb8f64374d82dc1f9321d6d5c70b91b3097f7ec56"
+hash = "9d2f2aa3ff6a6f9e1264cefabe035a86487b7e7d2ae025a86b0ab1d49c07970f"
 
 [versions]
 minecraft = "26.3"
