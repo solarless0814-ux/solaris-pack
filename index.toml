@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1915b8644020c4b40d7007cb9b7e289879c0f528467496228def0fd6602e466a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "225ea2729e25c3a4835b4edad7743e4e2b522f46fc9fffc8c402a4cea3135026"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
+metafile = true
+
+[[files]]
+file = "mods/solaris.pw.toml"
+hash = "94a885019d7d34192fcaf9362ef8ffc4ee797ac34fc69db409d409a7703b88e5"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "42a7c619dbea0a6e69fbdfcdadb07adb22e6fbace2bf69b20b8453056cbe5953"
+preserve = true
+
+[[files]]
+file = "config/iris.properties"
+hash = "ebdc0622c66be7a17038e655f9deef16ebda5066abd1cabdcf242dbf04305a39"
+preserve = true
